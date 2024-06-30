@@ -88,12 +88,17 @@ export const projects = [
   },
   {
     id: 3,
-    title:
-      "FileStorage as SaaS platform ",
+    title: "FileStorage as SaaS platform ",
     des: "where user can upload, delete,restore their files",
     img: "/filedrive.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/clerk.png", "/convex.png"],
-    link: "https://ui.aiimg.com",
+    iconLists: [
+      "/next.svg",
+      "/tail.svg",
+      "/ts.svg",
+      "/clerk.png",
+      "/convex.png",
+    ],
+    link: "https://filestorage-sourabh-singh-bais.vercel.app/",
   },
   {
     id: 4,
@@ -307,6 +312,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/sourabh-singh-bais-50686823a/",
+    link: "https://www.linkedin.com/in/sourabh-singh-bais/",
   },
 ];
