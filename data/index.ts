@@ -88,7 +88,7 @@ export const projects = [
   },
   {
     id: 3,
-    title: "FileStorage as SaaS platform ",
+    title: "FileDrive as SaaS platform ",
     des: "where user can upload, delete,restore their files",
     img: "/filedrive.png",
     iconLists: [
