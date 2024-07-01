@@ -75,7 +75,7 @@ export const projects = [
     title: "Gameonglow website",
     des: "By this Gameonglow website user can buy skin care products for sports.",
     img: "/gameon.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/wix.png", "/fm.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/wix.png"],
     link: "https://www.gameonglow.com/",
   },
   {
@@ -103,15 +103,9 @@ export const projects = [
   {
     id: 4,
     title: "Stack Tower Game",
-    des: "Ammazing .",
+    des: "Build only in vanilla javascript, CSS, HTML tech stack",
     img: "/stack.png",
-    iconLists: [
-      "/next.svg",
-      "/tail.svg",
-      "/ts.svg",
-      "/clerk.png",
-      "/convex.png",
-    ],
+    iconLists: [ "/js.png"],
     link: "https://sourabh-stack-tower-game.netlify.app/",
   },
 ];
