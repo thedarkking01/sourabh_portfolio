@@ -98,14 +98,14 @@ export const projects = [
       "/clerk.png",
       "/convex.png",
     ],
-    link: "https://filestorage1.vercel.app/",
+    link: "https://filestorage1-sourabh-singh-bais-projects.vercel.app/",
   },
   {
     id: 4,
     title: "Stack Tower Game",
     des: "Build only in vanilla javascript, CSS, HTML tech stack",
     img: "/stack.png",
-    iconLists: [ "/js.png"],
+    iconLists: ["/js.png"],
     link: "https://sourabh-stack-tower-game.netlify.app/",
   },
 ];
