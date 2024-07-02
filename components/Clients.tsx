@@ -10,7 +10,7 @@ const Clients = () => {
     <section id="testimonials" className="py-20">
       <h1 className="heading">
         Kind words from
-        <span className="text-purple"> satisfied clients</span>
+        <span className="text-[#84cc16]"> satisfied clients</span>
       </h1>
 
       <div className="flex flex-col items-center max-lg:mt-10">
@@ -25,8 +25,9 @@ const Clients = () => {
           />
         </div>
         <h1 className="heading">
-          My <span className="text-purple">Skills</span>
-        </h1> &nbsp;
+          My <span className="text-[#06b6d4]">Skills</span>
+        </h1>{" "}
+        &nbsp;
         <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
           {companies.map((company) => (
             <React.Fragment key={company.id}>
