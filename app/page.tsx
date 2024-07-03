@@ -30,8 +30,8 @@ const Home = () => {
         <Experience />
         
         <Approach />
-        {/* <Footer /> */}
-        <Footer2 />
+        <Footer />
+        {/* <Footer2 /> */}
       </div>
     </main>
   );
