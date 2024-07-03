@@ -60,7 +60,6 @@
 // };
 
 // export default Footer;
-
 "use client";
 import React from "react";
 import { motion } from "framer-motion";
@@ -71,7 +70,7 @@ import { LampContainer } from "@/components/ui/lamp";
 
 const Footer = () => {
   return (
-    <footer className="w-full pt-10 pb-5 md:mb-5" id="contact">
+    <footer className="w-full pt-2 pb-2 md:mb-2" id="contact">
       {/* Lamp Container with motion */}
       <LampContainer>
         <motion.div
@@ -82,13 +81,13 @@ const Footer = () => {
             duration: 0.8,
             ease: "easeInOut",
           }}
-          className="mt-8 flex flex-col items-center"
+          className="mt-4 flex flex-col items-center"
         >
           <h1 className="heading lg:max-w-[45vw] text-2xl md:text-4xl">
-            Ready to take <span className="text-purple">your</span> digital
+            Ready to take <span className="text-[#84cc16]">your</span> digital
             presence to the next level?
           </h1>
-          <p className="text-white-200 md:mt-5 mt-2 mb-5 text-center text-sm md:text-base">
+          <p className="text-white-200 md:mt-3 mt-2 mb-3 text-center text-sm md:text-base">
             Reach out to me today and let&apos;s discuss how I can help you
             achieve your goals.
           </p>
@@ -102,11 +101,11 @@ const Footer = () => {
         </motion.div>
       </LampContainer>
 
-      <div className="flex flex-col mt-0 md:mt-16 md:flex-row justify-between items-center">
-        <p className="md:text-base text-sm md:font-normal font-light mb-5 md:mb-0">
+      <div className="flex flex-col mt-0 md:mt-0 md:flex-row justify-between items-center">
+        <p className="md:text-base text-sm md:font-normal font-light mb-0 md:mb-0">
           Copyright © 2024 Sourabh Singh Bais
         </p>
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2">
           {socialMedia.map((info) => (
             <a
               key={info.id}
@@ -131,3 +130,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
