@@ -11,7 +11,7 @@ const RecentProjects = () => {
         A small selection of{" "}
         <span className="text-[#84cc16]">recent projects</span>
       </h1>
-      <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
+      {/* <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
         {projects.map((item) => (
           <div
             className="lg:min-h-[32.5rem] h-[25rem] flex items-center justify-center sm:w-96 w-[80vw]"
@@ -76,7 +76,7 @@ const RecentProjects = () => {
             </PinContainer>
           </div>
         ))}
-      </div>
+      </div> */}
     </div>
   );
 };
