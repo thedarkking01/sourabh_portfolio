@@ -1,29 +1,25 @@
+"use client";
+
+import React from "react";
 import { FaLocationArrow } from "react-icons/fa6";
 import { socialMedia } from "@/data";
 import MagicButton from "./MagicButton";
+import { WavyBackground } from "@/components/ui/wavy-background";
 
-const Footer = () => {
+
+const Footer2 = ()=> {
   return (
-    <footer className="w-full pt-20 pb-10 md:mb-5" id="contact">
-      {/* background grid */}
-      {/* <div className="w-full absolute left-0 -bottom-72 min-h-96">
-        <img
-          src="/footer-grid.svg"
-          alt="grid"
-          className="w-full h-full opacity-50 "
-        />
-      </div> */}
-
+    <WavyBackground className="max-w-4xl mx-auto pb-40">
       <div className="flex flex-col items-center">
-        <h1 className="heading lg:max-w-[45vw]">
+        <p className="text-2xl md:text-4xl lg:text-7xl text-white font-bold inter-var text-center">
           Ready to take <span className="text-purple">your</span> digital
           presence to the next level?
-        </h1>
-        <p className="text-white-200 md:mt-10 my-5 text-center">
+        </p>
+        <p className="text-base md:text-lg mt-4 text-white font-normal inter-var text-center">
           Reach out to me today and let&apos;s discuss how I can help you
           achieve your goals.
         </p>
-        <a href="mailto:sourabhsinghbais52@gmail.com">
+        <a href="mailto:sourabhsinghbais52@gmail.com" className="mt-4">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
@@ -35,7 +31,6 @@ const Footer = () => {
         <p className="md:text-base text-sm md:font-normal font-light">
           Copyright © 2024 Sourabh Singh Bais
         </p>
-
         <div className="flex items-center md:gap-3 gap-6">
           {socialMedia.map((info) => (
             <a
@@ -55,8 +50,7 @@ const Footer = () => {
           ))}
         </div>
       </div>
-    </footer>
+    </WavyBackground>
   );
 };
-
-export default Footer;
+export default Footer2;
