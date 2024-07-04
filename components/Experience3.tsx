@@ -55,7 +55,7 @@ const Experience3 = () => {
   return (
     <div className="max-w-5xl mx-auto px-8 py-20">
       <h1 className="heading">
-        My <span className="text-[#06b6d4]">work experience</span>
+        My <span className="text-[#0ea5e9]">Work Experience</span>
       </h1>
       <HoverEffect items={workExperience} />
     </div>

@@ -103,7 +103,7 @@ const RecentProjects2 = () => {
                 as={Link}
                 href={item.link}
                 target="__blank"
-                className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white"
+                className="px-4 py-2 rounded-xl text-xs font-normal dark:text-[#0ea5e9]"
               >
                 Check Live Site →
                 <div className="flex items-center mt-4">
