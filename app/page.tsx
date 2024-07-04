@@ -11,9 +11,9 @@ import Experience from "@/components/Experience";
 import RecentProjects from "@/components/RecentProjects";
 import RecentProjects2 from "@/components/RecentProjects2";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
-import Experience2 from "@/components/Experience2";
-import Footer2 from "@/components/Footer2";
-import Footer3 from "@/components/Footer3";
+import Experience3 from "@/components/Experience3";
+
+
 
 
 const Home = () => {
@@ -21,14 +21,16 @@ const Home = () => {
     <main className="relative bg-black-100 flex justify-center items-center flex-col  mx-auto sm:px-10 px-5 overflow-clip">
       <div className="max-w-7xl w-full">
         <FloatingNav navItems={navItems} />
-
+        
         <Hero />
         <Hero2 />
         <Grid />
+        {/* <Grid2/> */}
         <RecentProjects />
         <RecentProjects2 />
         <Clients />
-        <Experience />
+        {/* <Experience /> */}
+        <Experience3/>
         
         <Approach />
         <Footer />
