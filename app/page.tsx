@@ -32,7 +32,7 @@ const Home = () => {
         {/* <Experience /> */}
         <Experience3/>
         
-        <Approach />
+        {/* <Approach /> */}
         <Footer />
         {/* <Footer2 /> */}
         {/* <Footer3/> */}

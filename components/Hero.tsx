@@ -216,6 +216,7 @@ const Hero = () => {
            */}
           <TextGenerateEffect
             words="Crafting Innovative Solutions to Elevate Everyday Digital Interactions"
+            
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
