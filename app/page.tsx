@@ -21,8 +21,9 @@ const Home = () => {
     <main className="relative bg-black-100 flex justify-center items-center flex-col  mx-auto sm:px-10 px-5 overflow-clip">
       <div className="max-w-7xl w-full">
         <FloatingNav navItems={navItems} />
-        
+
         <Hero />
+        <Experience3 />
         <Hero2 />
         <Grid />
         {/* <Grid2/> */}
@@ -30,8 +31,7 @@ const Home = () => {
         <RecentProjects2 />
         <Clients />
         {/* <Experience /> */}
-        <Experience3/>
-        
+
         {/* <Approach /> */}
         <Footer />
         {/* <Footer2 /> */}
