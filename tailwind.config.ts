@@ -28,6 +28,7 @@ const config = {
       },
     },
     extend: {
+      scrollBehavior: ['smooth'],
       colors: {
         black: {
           DEFAULT: "#000",

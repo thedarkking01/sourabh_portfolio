@@ -206,7 +206,7 @@ const Hero = () => {
       <div className="flex justify-center relative z-10 h-full w-full items-center">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-            Welcome to my Portfolio Website.
+            Welcome to my Portfolio.
           </p>
 
           {/**
@@ -220,7 +220,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            a Full Stack Developer based in India.
+            a Full Stack Developer.
           </p>
 
           <a href="#about">
