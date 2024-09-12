@@ -285,7 +285,7 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Full Stack Developer",
+    title: "Full Stack ",
     desc: "Developed and maintained user-facing features using modern web technologies for Dotsquare company.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
