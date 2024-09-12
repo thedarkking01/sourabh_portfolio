@@ -127,14 +127,14 @@ export const workExperience = [
     title: "Hackathon Experince",
     description: (
       <>
-        Participate in various Hackathon and made real problems projects.
+        Reach Final Round in various Hackathon and made real problems projects.
         <br />
         <samp className="text-cyan-400">Link</samp>
       </>
     ),
 
     // thumbnail: "path/to/thumbnail4.jpg",
-    link: "",
+    link: "https://unstop.com/certificate-preview/c2ee61f3-cbc8-4c1a-a6f1-fa2c79692f55?utm_campaign=site-emails",
   },
 ];
 
