@@ -108,6 +108,14 @@ export const projects = [
     iconLists: ["/js.png"],
     link: "https://sourabh-stack-tower-game.netlify.app/",
   },
+  {
+    id: 5,
+    title: "News Website",
+    des: "Build in Reactjs tech stack",
+    img: "/stack.png",
+    iconLists: ["/js.png"],
+    link: "https://sourabh-stack-tower-game.netlify.app/",
+  },
 ];
 
 export const testimonials = [

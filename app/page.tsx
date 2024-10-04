@@ -25,7 +25,7 @@ const Home = () => {
         <Hero />
         <Experience3 />
         <Hero2 />
-        <Grid />
+        {/* <Grid /> */}
         {/* <Grid2/> */}
         <RecentProjects />
         <RecentProjects2 />

@@ -223,13 +223,13 @@ const Hero = () => {
             a Full Stack Developer.
           </p>
 
-          <a href="#about">
+          {/* <a href="#about">
             <MagicButton
               title="Go To my work"
               icon={<FaLocationArrow />}
               position="right"
             />
-          </a>
+          </a> */}
         </div>
       </div>
 
