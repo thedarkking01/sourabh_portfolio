@@ -127,9 +127,9 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with Sourabh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Sourabh enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Sourabh is the ideal partner.",
-    name: "Kamal Sharma",
-    title: "Director of Gameonglow",
+      "During the internship, Sourabh Singh Bais showcased a strong analytical mindset and a keen eye for optimization, significantly improving our project workflows.",
+    name: "Manish Kumar",
+    title: "Project Manager at GoodTechMind",
   },
   {
     quote:
@@ -145,9 +145,9 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with Sourabh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Sourabh enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Sourabh is the ideal partner.",
-    name: "Kamal Sharma",
-    title: "Director of Gameonglow",
+      "During the internship, Sourabh Singh Bais showcased a strong analytical mindset and a keen eye for optimization, significantly improving our project workflows.",
+    name: "Manish Kumar",
+    title: "Project Manager at GoodTechMind",
   },
 ];
 
