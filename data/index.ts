@@ -108,13 +108,21 @@ export const projects = [
     iconLists: ["/js.png"],
     link: "https://sourabh-stack-tower-game.netlify.app/",
   },
+  // {
+  //   id: 5,
+  //   title: "News Website",
+  //   des: "Build in Reactjs tech stack",
+  //   img: "/stack.png",
+  //   iconLists: ["/js.png"],
+  //   link: "https://sourabh-stack-tower-game.netlify.app/",
+  // },
   {
     id: 5,
-    title: "News Website",
-    des: "Build in Reactjs tech stack",
-    img: "/stack.png",
+    title: "Metaverse Website - Project X",
+    des: "Build in Reactjs, Gsap tech stack",
+    img: "/projectx.png",
     iconLists: ["/js.png"],
-    link: "https://sourabh-stack-tower-game.netlify.app/",
+    link: "https://metaverseweb.vercel.app/",
   },
 ];
 
