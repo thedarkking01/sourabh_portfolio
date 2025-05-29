@@ -124,6 +124,14 @@ export const projects = [
     iconLists: ["/js.png"],
     link: "https://metaverseweb.vercel.app/",
   },
+  {
+    id: 6,
+    title: "AI-Interview-Preparation",
+    des: "Practice your interview skills with our AI-powered platform.",
+    img: "/ai prep.png",
+    iconLists: ["/re.svg", "/tail.svg", "/js.png", "/firebase.png"],
+    link: "https://ai-preperation.vercel.app/",
+  },
 ];
 
 export const testimonials = [
