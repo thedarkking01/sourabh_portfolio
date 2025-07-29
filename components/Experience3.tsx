@@ -66,6 +66,19 @@ const Experience3 = () => {
 export const workExperience = [
   {
     id: 1,
+    title: "Founding Engineer at Vediculum",
+    description: (
+      <>
+        Buliding a product from 0 to 1.
+        <br />
+        <samp className="text-cyan-400">Link</samp>
+      </>
+    ),
+    // thumbnail: "path/to/thumbnail0.jpg",
+    link: "https://www.linkedin.com/company/vediculum/",
+  },
+  {
+    id: 2,
     title: "MERN Stack Developer Intern",
     description: (
       //   "Assisted in the development of a website for GoodTechMind.\nSee Company",
@@ -79,7 +92,7 @@ export const workExperience = [
     link: "https://www.linkedin.com/company/goodtechmind/mycompany/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Web Developer Intern",
     description: (
       <>
@@ -93,7 +106,7 @@ export const workExperience = [
     link: "https://www.gameonglow.com/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Freelance App Dev Project",
     description: (
       <>
@@ -108,7 +121,7 @@ export const workExperience = [
     link: "",
   },
   {
-    id: 4,
+    id: 5,
     title: "Full Stack Developer",
     description: (
       <>
@@ -123,7 +136,7 @@ export const workExperience = [
     link: "https://www.dotsquares.com/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Hackathon Experince",
     description: (
       <>
