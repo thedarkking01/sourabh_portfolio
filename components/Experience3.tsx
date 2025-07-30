@@ -69,13 +69,13 @@ export const workExperience = [
     title: "Founding Engineer at Vediculum",
     description: (
       <>
-        Buliding a product from 0 to 1.
+        Buliding a MVP product from 0 to 1.
         <br />
         <samp className="text-cyan-400">Link</samp>
       </>
     ),
     // thumbnail: "path/to/thumbnail0.jpg",
-    link: "https://www.linkedin.com/company/vediculum/",
+    link: "https://vediculum.com/",
   },
   {
     id: 2,
