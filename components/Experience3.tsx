@@ -79,7 +79,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "MERN Stack Developer Intern",
+    title: "MERN Developer Intern at GoodTechMind",
     description: (
       //   "Assisted in the development of a website for GoodTechMind.\nSee Company",
       <>
