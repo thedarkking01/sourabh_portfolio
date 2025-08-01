@@ -93,7 +93,7 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: "Web Developer Intern",
+    title: "Web Developer Intern at Goameonglow",
     description: (
       <>
         Designed and developed a website for both Desktop & Mobile platforms for
