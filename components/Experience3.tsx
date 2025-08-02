@@ -122,7 +122,7 @@ export const workExperience = [
   },
   {
     id: 5,
-    title: "Full Stack Developer",
+    title: "Full Stack Developer Intern at Dotsquare",
     description: (
       <>
         Developed and maintained user-facing features using modern web
