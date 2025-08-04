@@ -140,7 +140,7 @@ export const workExperience = [
     title: "Hackathon Experince",
     description: (
       <>
-        Reach Final Round in various Hackathon and made real problems projects.
+        Reach Final Round in various Hackathon and made real problems projects like Agriculture Selling Platform, Fintech platform .
         <br />
         <samp className="text-cyan-400">Link</samp>
       </>
